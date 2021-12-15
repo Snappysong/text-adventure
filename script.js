@@ -39,6 +39,7 @@ function selectOption(option) {
   showTextNode(nextTextNodeId)
 }
 
+//need to make new test nodes.
 const textNodes = [
   {
     id: 1,
