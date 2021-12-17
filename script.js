@@ -40,7 +40,7 @@ function selectOption(option) {
 }
 
 //need to make new test nodes.
-//my story notes
+
 const textNodes = [
   {
     id: 1,
