@@ -39,7 +39,8 @@ function selectOption(option) {
   showTextNode(nextTextNodeId)
 }
 
-//need to make new test nodes.
+//need to make new test nodes. think up new stories with setState for equipment. and no health?
+
 
 const textNodes = [
   {
