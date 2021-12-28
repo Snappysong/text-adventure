@@ -40,7 +40,7 @@ function selectOption(option) {
 }
 
 //need to make new test nodes. think up new stories with setState for equipment. and no health?
-//need to make new stuff
+
 
 const textNodes = [
   {
